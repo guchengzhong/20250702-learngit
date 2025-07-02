@@ -1,2 +1,2 @@
 import numpy as np
-print(np.randn((1, 1)))
+print(np.randn((1, 0)))
